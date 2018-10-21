@@ -2,7 +2,7 @@
 
 ## Install
 ```js
-npm i --save react-multiselect-list
+$ npm i --save react-multiselect-list
 ```
 
 ## Use it in any component
@@ -35,6 +35,14 @@ class <your_componenet> extends Component {
 | theme        | String   | No        | Choose from ('red', 'green', 'lightblue', 'yellow', 'blue') to match with your theme. Blue is the default theme |
 <br/>
 
-**Feel free to contact if you find any problem using this package.**  
+## Development
 
+```
+$ git clone https://github.com/hkureshy/react-multiselect-list.git
+$ cd react-multiselect-list
+$ npm install
+$ npm start
+```  
+
+**Feel free to contact if you find any problem using this package.**  
 Email: `hassnainkureshy@gmail.com`
