@@ -33,8 +33,8 @@ class <your_componenet> extends Component {
 | onSelectItem | Function | Yes       | Callback from your component                   |
 | selected     | Array    | No        | Pass values that you want selected by default  |
 | theme        | String   | No        | Choose from ('red', 'green', 'lightblue', 'yellow', 'blue') to match with your theme. Blue is the default theme |
+<br/>
 
-
-**Feel free to contact if you find any problem using this package.**
+**Feel free to contact if you find any problem using this package.**  
 
 Email: `hassnainkureshy@gmail.com`
