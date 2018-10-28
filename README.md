@@ -1,7 +1,7 @@
 # React Multi-list Selector
 
 ## Install
-```js
+```sh
 $ npm i --save react-multiselect-list
 ```
 
@@ -37,7 +37,7 @@ class <your_componenet> extends Component {
 
 ## Development
 
-```
+```sh
 $ git clone https://github.com/hkureshy/react-multiselect-list.git
 $ cd react-multiselect-list
 $ npm install

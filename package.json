@@ -1,6 +1,6 @@
 {
   "name": "react-multiselect-list",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A small library to select multiple value from a list",
   "main": "dist/index.js",
   "module": "dist/index.js",
